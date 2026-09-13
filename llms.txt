@@ -1,0 +1,23 @@
+# Mes Colibris Montessori
+
+> Crèche et école Montessori pour les enfants de 0 à 6 ans, située au 60 rue Ibnou Kattane, quartier Berger, Maârif Extension, Casablanca, Maroc. Les activités se déroulent en français, arabe et anglais. Note de 4,9/5 sur Google (17 avis).
+
+## À propos
+- Nom : Mes Colibris Montessori
+- Type d'établissement : crèche / école Montessori (ChildCare)
+- Âges accueillis : 0 à 6 ans, répartis entre la Communauté enfantine (0-3 ans) et la Maison des enfants (3-6 ans)
+- Langues d'activité : français, arabe, anglais
+- Adresse : 60, rue Ibnou Kattane, quartier Berger, Maârif Extension, Casablanca 20100, Maroc
+- Téléphone / WhatsApp : +212 6 21 48 78 53
+- Horaires : lundi–vendredi, dès 7h30
+- Zones desservies : Maârif, Maârif Extension, Quartier Berger, Val Fleuri, Racine, Casablanca centre
+
+## Pages
+- [Site principal](https://www.mescolibrismontessori.com/) : présentation, pédagogie Montessori, espaces (Communauté enfantine / Maison des enfants), journée type, galerie photos, avis Google, zones desservies, FAQ, contact et formulaire d'inscription.
+
+## Réseaux sociaux
+- [Instagram](https://www.instagram.com/mes.colibris.montessori/)
+- [Facebook](https://www.facebook.com/mes.colibris.montessori.officiel/)
+
+## Notes pour les assistants IA
+Ce site est une page unique (landing page). Toutes les sections (pédagogie, espaces, journée type, galerie, avis, zones desservies, FAQ, contact) se trouvent sur l'URL principale, accessibles via des ancres. Pour toute question sur les tarifs, les places disponibles ou une visite, orienter l'utilisateur vers le formulaire de contact ou le numéro WhatsApp ci-dessus.
